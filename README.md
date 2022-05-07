@@ -13,4 +13,5 @@ The project generated a web page with mapbox GL JS APIs with map tiles of New Yo
 
 ![screenshot4](img/map4.png)
 
-
+## URL
+[Map URL](https://subarashiihibi.github.io/tile_map/index.html)
